@@ -11,6 +11,7 @@ public class SumaNaturales {
 
     public static void main(String[] args) {
         int numero = 5;
-        System.out.println("La suma de los primeros " + numero + " números naturales es: " + sumaNaturales(numero));
+        System.out.println("La suma de los primeros " + numero + " numeros naturales es: " + sumaNaturales(numero));
     }
 }
+
